@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.282" height="19.812" viewBox="0 0 23.282 19.812">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Check_mark.svg" class="cls-1" d="M92.045,201.92a1,1,0,0,1-.725-0.31l-6.626-6.956a1,1,0,0,1,1.449-1.378l5.845,6.136L105.9,182.458a1,1,0,0,1,1.547,1.268L92.819,201.555a1,1,0,0,1-.736.365H92.045Z" transform="translate(-84.406 -182.094)"/>
+</svg>
